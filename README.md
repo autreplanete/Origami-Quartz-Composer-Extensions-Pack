@@ -14,7 +14,7 @@ How to install
 --------------
 
 1. Install Origami (download the Origami installer from http://facebook.github.io/origami)
-2. Download this Pack 
+2. Download this Pack (https://github.com/autreplanete/Origami-Quartz-Composer-Extensions-Pack/archive/master.zip)
 3. Copy 'AutrePlanete' folder into your `~/Library/Graphics/Quartz Composer Patches/`
 
 How to use
