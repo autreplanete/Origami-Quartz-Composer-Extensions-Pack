@@ -48,11 +48,9 @@ ln -s `pwd`/origami/Origami ~/Library/Graphics/Quartz\ Composer\ Patches
 Origami links
 -------------
 
-https://github.com/facebook/origami
+- https://github.com/facebook/origami/
 
-Origami Feedback
-----------------
-Your feedback is important in making Origami better – feel free to open an Issue here on GitHub or send us a tweet @facebookorigami.
+- http://facebook.github.io/origami/
 
 
 Feedback for this pack
