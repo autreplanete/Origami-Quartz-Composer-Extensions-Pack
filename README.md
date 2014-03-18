@@ -9,7 +9,7 @@ Is a extensions pack for Origami Quartz Composer Toolkit
 Features
 --------
 
-- Ipad (Air) landscape and portrait Layer
+- iPad (Air) landscape and portrait Layer
 - Android (Nexus 7) landscape and portrait Layer
 - Android (Nexus 10) landscape and portrait Layer
 
