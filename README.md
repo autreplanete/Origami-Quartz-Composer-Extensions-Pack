@@ -22,6 +22,8 @@ How to use
 
 [![Vimeo How to](http://secure-b.vimeocdn.com/ts/468/142/468142468_295.jpg)](http://vimeo.com/thierryc/origami-quartz-composer-extensions-pack)
 
+http://vimeo.com/thierryc/origami-quartz-composer-extensions-pack
+
 About Origami
 =============
 
