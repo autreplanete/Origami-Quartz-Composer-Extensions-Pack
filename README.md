@@ -20,7 +20,7 @@ How to install
 How to use
 ----------
 
-Vidéo Soon
+http://vimeo.com/thierryc/origami-quartz-composer-extensions-pack
 
 About Origami
 =============
