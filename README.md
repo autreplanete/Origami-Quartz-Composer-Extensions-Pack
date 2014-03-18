@@ -1,8 +1,5 @@
-Origami-Quartz-Composer-Extensions-Pack
-=======================================
-
 Origami Quartz Composer Extensions Pack
----------------------------------------
+=======================================
 
 Is a extensions pack for Origami Quartz Composer Toolkit
 
