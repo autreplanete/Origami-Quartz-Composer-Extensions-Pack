@@ -13,8 +13,8 @@ Features
 How to install
 --------------
 
-1. Install Origami 
-2. Download this Pack
+1. Install Origami (download the Origami installer from http://facebook.github.io/origami)
+2. Download this Pack 
 3. Copy 'AutrePlanete' folder into your `~/Library/Graphics/Quartz Composer Patches/`
 
 How to use
