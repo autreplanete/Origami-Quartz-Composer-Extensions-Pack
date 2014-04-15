@@ -1,6 +1,17 @@
 Origami Quartz Composer Extensions Pack
 =======================================
 
+Now you can use origami 1.2
+---------------------------
+
+Phone IMPROVED IN 1.2
+Draws a phone (iPhone, Android or Windows Phone) or iPad with a specified screen image.
+
+https://github.com/facebook/origami
+
+This extension is now obsolete.
+
+
 Is a extensions pack for Origami Quartz Composer Toolkit
 
 Features
